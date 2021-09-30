@@ -1,9 +1,7 @@
 {
-
-      "clientID": "Dv536KRBlWxbFX6sBWXGBg==",
-      "serverToken": "1@3e5FaEUgv7gmONvESghz6CezqZ98Wc2B2a4cQl3BkNR90YqZX3O01qQAEZVzTMch1MGSYcty9A2hVw==",
-      "clientToken": "PMQOCWprZQoDwujd6pAre5R4t1CMkOlicMQWO19jDd4=",
-      "encKey": "AHNJ4NSmDxYX0W+shE4YkNGex3aalZUTeV/9DD1DDOA=",
-      "macKey": "otzlbEE2w4oG5pW5EZuk/tJ+JWS0qNtoEiuu8ekkGFc="
-
+        "clientID": "Pg9zT5FyHIYIACJ1DkVXQA==",
+        "serverToken": "1@poXDIzXtGOkGYzSNX823e2Mx7b/jc9zkqdgJ1rbECWVFLOme8ZcLpZRe+4paxWTky9oMti7tMyk7xw==",
+        "clientToken": "It7x+xvkHdR8D8y82/94Hk5hj6ONu1TqnK445bAuf5Y=",
+        "encKey": "FO9q2aluX8CQd6mvmQilxsKlSs+13wxJOBhwQTD7wfw=",
+        "macKey": "aZb5uF3nFEATaCfPvGFOlZFpJx3mUEsSxxdQbqReHAQ="
 }
